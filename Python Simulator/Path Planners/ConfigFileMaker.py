@@ -1,9 +1,9 @@
-import Tkinter as tk
+import tkinter as tk
 import sys
 
 # Set number of rows and columns
-ROWS = 20
-COLS = 20
+ROWS = 300
+COLS = 300
 
 f=open("one.config","w")
 '''
